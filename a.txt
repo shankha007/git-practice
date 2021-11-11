@@ -1,1 +1,2 @@
-I am beginner in git
+I am beginner in git.
+I will learn git.
